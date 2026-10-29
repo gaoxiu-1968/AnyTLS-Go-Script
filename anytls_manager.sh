@@ -5,7 +5,6 @@
 
 # --- 全局配置参数 ---
 ANYTLS_VERSION="v0.0.13"
-ANYTLS_VERSION="v0.0.8"
 BASE_URL="https://github.com/anytls/anytls-go/releases/download"
 INSTALL_DIR_TEMP="/tmp/anytls_install_$$" # 使用 $$ 增加随机性
 BIN_DIR="/usr/local/bin"
